@@ -16,8 +16,6 @@ Welcome to the Food Ordering Website project! This is a mini project created wit
 
 ![Home Page](screenshots/screenshot1.png)
 
-![Home Page](screenshots/screenshot2.png)
-
 ## Features
 
 - **User Authentication**: Users can register and log in with validation. User data is stored in local storage for simplicity in this mini project.
